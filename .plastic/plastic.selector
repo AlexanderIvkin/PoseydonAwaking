@@ -1,0 +1,4 @@
+repository "PoseydonAwaking@DVAKOTA@cloud"
+  path "/"
+    br "/main"
+    co "/main"
